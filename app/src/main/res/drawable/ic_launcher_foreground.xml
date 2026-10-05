@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Graduation Cap / Academy Roof -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,24 L28,36 L54,48 L80,36 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M72,39.6 L72,50 C72,50.8 71.2,52 70,52 C68.8,52 68,50.8 68,50 L68,41.4 Z" />
+    
+    <!-- School Khata Ledger Book Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,46 L76,46 C78.2,46 80,47.8 80,50 L80,82 C80,84.2 78.2,86 76,86 L32,86 C29.8,86 28,84.2 28,82 L28,50 C28,47.8 29.8,46 32,46 Z" />
+    
+    <!-- Ledger Spine / Header Ribbon in Gold -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M28,50 C28,47.8 29.8,46 32,46 L40,46 L40,86 L32,86 C29.8,86 28,84.2 28,82 Z" />
+    
+    <!-- Rupee symbol on ledger cover -->
+    <!-- Top bar -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M48,53 L68,53 L68,55.5 L48,55.5 Z" />
+    <!-- Second bar -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M48,58.5 L64,58.5 L64,61 L48,61 Z" />
+    <!-- Rupee curve & stem & slant -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M52,53 L56,53 L56,66 C58.2,66 60,64.2 60,62 C60,59.8 58.2,58 56,58 L56,55.5 C59.5,55.5 62.5,58.5 62.5,62 C62.5,65.2 60.2,67.8 57.2,68.4 L67,81 L62,81 L53.5,70 L52,70 L52,81 L48,81 L48,53 Z" />
+
+    <!-- Ledger checkmark / verified badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M70,72 A6,6 0 1 0 70,84 A6,6 0 1 0 70,72 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67.5,78 L69.5,80 L73,76.5 L74,77.5 L69.5,82 L66.5,79 Z" />
+</vector>
+

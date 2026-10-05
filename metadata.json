@@ -1,0 +1,7 @@
+{
+  "name": "Vidya Vijay School billing app",
+  "description": "Smart billing, fee ledger (khata), student udhar/jama balance, GST/non-GST invoices, inventory, expenses, and UPI reminders for Vidya Vijay School.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
